@@ -5,7 +5,7 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>B2062600-0EF9-4D53-AFC3-F3FAB1671B65</string>
+	<string>29F94C34-AE17-4E19-8C1F-2FFAEAE7774D</string>
 	<key>IDESourceControlProjectName</key>
 	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
@@ -14,7 +14,7 @@
 		<string>https://github.com/qinyubo/DS_HW2.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>q1.c/q1.c.xcodeproj/project.xcworkspace</string>
+	<string>q1/q1.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>42184BEA0FB90691528E5F5C2BF7228FB2762EFA</key>

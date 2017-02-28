@@ -1,15 +1,15 @@
 //
-//  main.c
-//  q1.c
+//  main.cpp
+//  q1
 //
 //  Created by Yubo Qin on 2/28/17.
 //  Copyright (c) 2017 Yubo Qin. All rights reserved.
 //
 
-#include <stdio.h>
+#include <iostream>
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    printf("Hello, World!\n");
+    std::cout << "Hello, World!\n";
     return 0;
 }
