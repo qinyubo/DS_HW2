@@ -7,9 +7,12 @@
 //
 
 #include <iostream>
+using namespace std;
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+    int count=0;
+    count = argc;
+    
+    cout << "Hello, World!\n" << count << argv[2] << endl;
     return 0;
 }
