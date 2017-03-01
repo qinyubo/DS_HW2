@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>76101030-CD2A-427B-8906-3F0BE913CB24</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>42184BEA0FB90691528E5F5C2BF7228FB2762EFA</key>
+		<string>https://github.com/qinyubo/DS_HW2.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>q4_1/q4_1.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>42184BEA0FB90691528E5F5C2BF7228FB2762EFA</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/qinyubo/DS_HW2.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>42184BEA0FB90691528E5F5C2BF7228FB2762EFA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>42184BEA0FB90691528E5F5C2BF7228FB2762EFA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HW2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
