@@ -63,10 +63,17 @@ int printVector()
     return 0;
 }
 
+void swap(int* a, int* b)
+{
+    int t = *a;
+    *a = *b;
+    *b = t;
+}
+
 int partition(int* a, int lo, int hi)
 {
     int i = lo, j = hi+1;
-    int temp;
+
     
     while(true)
     {
@@ -78,20 +85,15 @@ int partition(int* a, int lo, int hi)
         if (i >= j) break;
         
         //swap i j
-        temp = a[i];
-        a[i] = a[j];
-        a[j] = temp;
+        swap(&a[i], &a[j]);
     }
     
     //swap with partition item
-    temp = a[lo];
-    a[lo] = a[j];
-    a[j] = temp;
+    swap(&a[lo], &a[j]);
     
     return j;
     
 }
-
 
 void sort(int* a, int lo, int hi)
 {
@@ -107,7 +109,7 @@ int main()
 {
     double time_spend;
     
-    for (int i=1; i<2; i++)
+    for (int i=0; i<6; i++)
     {
         input_size = inputFileName[i];
         compar_counter = 0;
@@ -121,6 +123,7 @@ int main()
         
         time_spend = double(end - begin) / CLOCKS_PER_SEC;
 
+//        printVector();
         cout << "Time spent: " << time_spend << " sec." << endl;
         
     }
